@@ -1,59 +1,62 @@
+# Dermo-Bot-Mini-Project
+
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+Derma Bot using RAG for Skin Disease Detection
+
+## Small Description
+The integration of a derma bot using Retrieval-Augmented Generation (RAG), aimed at providing efficient and accurate skin disease detection by leveraging real-time image analysis and machine learning techniques.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The Derma Bot using RAG is a project designed to integrate a chatbot powered by Retrieval-Augmented Generation and YOLOv7 for object detection in dermatological applications. Traditional skin disease diagnosis often requires significant manual effort, involving consultations with specialists and physical examinations. This project seeks to overcome these challenges by creating an AI-powered derma bot that utilizes natural language processing and computer vision techniques to assist in diagnosing and addressing user queries.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+Implements YOLOv7 for real-time, high-accuracy object detection and localization.
+Utilizes a Retrieval-Augmented Generation (RAG) approach for contextual and precise chatbot responses.
+High scalability with GPU optimization for faster inference without compromising accuracy.
+Efficient integration of feature detection and robust loss functions for improved diagnostic outcomes.
+Specific scope of disease detection models using structured JSON data formats for seamless integration.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+Operating System:
 
-## System Architecture
-<!--Embed the system architecture diagram as shown below-->
+Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
+Development Environment:
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+Python 3.6 or later is necessary for coding the derma bot system.
+Deep Learning Frameworks:
 
+TensorFlow for RAG implementation and YOLOv7 for skin disease detection.
+Image Processing Libraries:
+
+OpenCV for real-time image analysis and preprocessing.
+Version Control:
+
+Git for collaborative development and effective code management.
+IDE:
+
+VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
+Additional Dependencies:
+
+Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and PyTorch for YOLOv7.
+System Architecture
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+![WhatsApp Image 2024-11-20 at 11 12 56_09b9215b](https://github.com/user-attachments/assets/0f407e71-c492-45c6-8ea6-4406a26b422d)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![output](https://github.com/user-attachments/assets/bb8588a1-60a5-4460-953c-ecdb132a506d)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
+## Detection Accuracy:
+
+Achieved 97.5% detection accuracy in skin disease identification through YOLOv7.
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The Derma Bot using RAG revolutionizes dermatology by providing accessible and efficient diagnostic tools for skin diseases. By integrating computer vision and advanced NLP, it showcases the potential for intuitive and interactive human-computer interaction.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+This project serves as a foundation for future developments in medical assistive technologies and contributes significantly to creating an inclusive and accessible healthcare environment.
 
-## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
-
-
+Articles Published / References
+N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Skin Disease Detection Through Advanced Machine Learning Techniques”, EAI Endorsed Trans IoT, vol. 12, Mar. 2024.
+A. A. BIN ZAINUDDIN, “RAG-Powered Assistive Bots: A Convergence of NLP and Computer Vision in Healthcare”, Data Science Insights, vol. 2, no. 3, Feb. 2024.
